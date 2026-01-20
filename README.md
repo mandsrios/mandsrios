@@ -20,9 +20,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Meu nome é Amanda, sou formada em **Análise e Desenvolvimento de Sistemas**, com atuação como **Desenvolvedora** e **Analista de Sistemas**. Atuação em desenvolvimento e manutenção de sistemas, criação de rotinas, integração com aplicativos Android e **utilização de serviços AWS e Azure DevOps Server para apoio a ambientes, versionamento e gerenciamento de demandas**, além de suporte técnico e análise de requisitos junto aos usuários.
+Meu nome é Amanda, sou formada em **Análise e Desenvolvimento de Sistemas**, com atuação como **Desenvolvedora** e **Analista de Sistemas**. Possu experiência no desenvolvimento e manutenção de sistemas, criação de rotinas, integração com aplicativos Android e **utilização de serviços AWS e Azure DevOps Server para apoio a ambientes, versionamento e gerenciamento de demandas**, além de suporte técnico e análise de requisitos junto aos usuários.
 
-Experiência com **Java, C#, PHP, .NET, Visual Basic 6, JavaScript e CSS**, utilizando **Visual Studio, Android Studio e SQL Server**. Vivência em integrações bancárias via CNAB 240 com Sicoob, Sicredi, Banco do Brasil, Santander, Bradesco e Caixa. Atuação em empresas dos setores de contabilidade, sindicatos, comércio e indústria. Atualmente em **estudos de Python**, com foco em automação e desenvolvimento de soluções modernas.
+Tenho experiência com **Java, C#, PHP, .NET, Visual Basic 6, JavaScript e CSS**, utilizando **Visual Studio, Android Studio e SQL Server**. Vivência em integrações bancárias via CNAB 240 com Sicoob, Sicredi, Banco do Brasil, Santander, Bradesco e Caixa. Atuação em empresas dos setores de contabilidade, sindicatos, comércio e indústria. Atualmente em **estudos de Python**, com foco em automação e desenvolvimento de soluções modernas.
 
 ---
 
